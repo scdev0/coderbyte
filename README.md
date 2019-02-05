@@ -1,1 +1,1 @@
-These are my solutions to https://coderbyte.com/ challenges.
+These are my solutions to https://coderbyte.com/ challenges. Challenge descriptions (taken verbatim from coderbyte) are added to each file.
